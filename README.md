@@ -1,2 +1,2 @@
-# WintersmithTesting
+# MetalsmithTesting
 Just playing around.
